@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:16:15 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175375325
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175375399
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-container-default\:pom\:1.0-alpha-9-stable-1 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

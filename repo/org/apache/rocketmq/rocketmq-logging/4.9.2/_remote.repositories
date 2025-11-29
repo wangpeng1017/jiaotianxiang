@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:33:28 CST 2025
+rocketmq-logging-4.9.2.jar>nexus-cosmoplat=
+rocketmq-logging-4.9.2.pom>aliyun-nexus=

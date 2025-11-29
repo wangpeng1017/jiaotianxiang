@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:16:50 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175409725
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175410538
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.22.2 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

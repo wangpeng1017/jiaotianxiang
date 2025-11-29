@@ -1,0 +1,68 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="1280" height="720" fill="#f5f7fa"/>
+  
+  <!-- Title -->
+  <text x="640" y="80" font-family="'Microsoft YaHei', sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#2c3e50">焦甜香二期招标需求总览</text>
+  <line x1="440" y1="100" x2="840" y2="100" stroke="#3498db" stroke-width="4"/>
+
+  <!-- Grid Layout -->
+  <!-- Adjusted Margins: Left 80, Gap 40, Card Width 540 -->
+  
+  <!-- Card 1: Integrated Platform -->
+  <g transform="translate(80, 150)">
+    <rect x="0" y="0" width="540" height="240" rx="15" ry="15" fill="white" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="10" height="240" rx="5" ry="5" fill="#3498db"/> <!-- Blue Strip -->
+    <text x="40" y="50" font-family="'Microsoft YaHei', sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">01 一体化平台升级</text>
+    <line x1="40" y1="70" x2="500" y2="70" stroke="#ecf0f1" stroke-width="2"/>
+    
+    <!-- Updated Bullet Points based on user request -->
+    <text x="40" y="105" font-family="'Microsoft YaHei', sans-serif" font-size="15" fill="#7f8c8d">• <tspan font-weight="bold" fill="#2c3e50">财务管理</tspan>: 税务发票自动化，银企直连，多维定制化报表</text>
+    <text x="40" y="140" font-family="'Microsoft YaHei', sans-serif" font-size="15" fill="#7f8c8d">• <tspan font-weight="bold" fill="#2c3e50">智慧生产(MES)</tspan>: 车间设备互联，生产/质检/仓库全流程闭环</text>
+    <text x="40" y="175" font-family="'Microsoft YaHei', sans-serif" font-size="15" fill="#7f8c8d">• <tspan font-weight="bold" fill="#2c3e50">运营管理(ERP)</tspan>: 供应商协同，绩效考核，销售/采购业务闭环</text>
+    <text x="40" y="210" font-family="'Microsoft YaHei', sans-serif" font-size="15" fill="#7f8c8d">• <tspan font-weight="bold" fill="#2c3e50">智慧研发(PMS)</tspan>: 研发委外管理，项目成本监控，智能调香/配方库</text>
+  </g>
+
+  <!-- Card 2: Agricultural Planting -->
+  <g transform="translate(660, 150)">
+    <rect x="0" y="0" width="540" height="240" rx="15" ry="15" fill="white" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="10" height="240" rx="5" ry="5" fill="#2ecc71"/> <!-- Green Strip -->
+    <text x="40" y="50" font-family="'Microsoft YaHei', sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">02 农业种植板块升级</text>
+    <line x1="40" y1="70" x2="500" y2="70" stroke="#ecf0f1" stroke-width="2"/>
+    
+    <text x="40" y="110" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 种植全流程数字化管理</text>
+    <text x="40" y="150" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 物联网(IoT)设备接入与监控</text>
+    <text x="40" y="190" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 农事记录与溯源体系建设</text>
+  </g>
+
+  <!-- Card 3: Exhibition Hall -->
+  <g transform="translate(80, 430)">
+    <rect x="0" y="0" width="540" height="240" rx="15" ry="15" fill="white" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="10" height="240" rx="5" ry="5" fill="#e67e22"/> <!-- Orange Strip -->
+    <text x="40" y="50" font-family="'Microsoft YaHei', sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">03 展厅建设升级</text>
+    <line x1="40" y1="70" x2="500" y2="70" stroke="#ecf0f1" stroke-width="2"/>
+    
+    <text x="40" y="110" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 数字化大屏展示系统</text>
+    <text x="40" y="150" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 交互式体验与多媒体集成</text>
+    <text x="40" y="190" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 实时数据可视化驾驶舱</text>
+  </g>
+
+  <!-- Card 4: Hardware Server -->
+  <g transform="translate(660, 430)">
+    <rect x="0" y="0" width="540" height="240" rx="15" ry="15" fill="white" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="10" height="240" rx="5" ry="5" fill="#9b59b6"/> <!-- Purple Strip -->
+    <text x="40" y="50" font-family="'Microsoft YaHei', sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">04 硬件服务器升级</text>
+    <line x1="40" y1="70" x2="500" y2="70" stroke="#ecf0f1" stroke-width="2"/>
+    
+    <text x="40" y="110" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 服务器性能扩容与升级</text>
+    <text x="40" y="150" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 网络安全与数据备份策略</text>
+    <text x="40" y="190" font-family="'Microsoft YaHei', sans-serif" font-size="20" fill="#7f8c8d">• 机房环境与基础设施改造</text>
+  </g>
+
+  <!-- Definitions for Shadow -->
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#bdc3c7" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+</svg>

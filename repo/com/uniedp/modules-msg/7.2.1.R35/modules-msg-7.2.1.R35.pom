@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>modules</artifactId>
+        <groupId>com.uniedp</groupId>
+        <version>7.2.1.R35</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>modules-msg</artifactId>
+    <name>modules-msg-消息预警模块</name>
+    <description>消息预警模块</description>
+    <dependencies>
+        <dependency>
+            <groupId>com.uniedp</groupId>
+            <artifactId>frk-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.mail</groupId>
+            <artifactId>javax.mail</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-dysmsapi</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.qcloudsms</groupId>
+            <artifactId>qcloudsms</artifactId>
+        </dependency>
+        <!--微信-->
+        <dependency>
+            <groupId>com.github.binarywang</groupId>
+            <artifactId>weixin-java-mp</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.binarywang</groupId>
+            <artifactId>weixin-java-miniapp</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.taobao.top</groupId>
+            <artifactId>top-api-sdk-dev</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <!--        消息队列模块-->
+        <dependency>
+            <groupId>com.uniedp</groupId>
+            <artifactId>modules-queue</artifactId>
+        </dependency>
+        <!--xxl-job begin -->
+        <dependency>
+            <groupId>com.xuxueli</groupId>
+            <artifactId>xxl-job-core</artifactId>
+        </dependency>
+        <!--xxl-job end -->
+    </dependencies>
+</project>

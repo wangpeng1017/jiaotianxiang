@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:15:57 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175357444
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175357522
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.springframework.security\:spring-security-bom\:pom\:4.2.3.RELEASE from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:14:36 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175276689
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175276849
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.flowable\:flowable-bpmn-converter\:jar\:6.6.0 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: \u4E0D\u77E5\u9053\u8FD9\u6837\u7684\u4E3B\u673A\u3002 (nexus.cosmoplat.com)

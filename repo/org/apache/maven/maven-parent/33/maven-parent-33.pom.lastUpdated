@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:11:18 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175078483
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175078589
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.apache.maven\:maven-parent\:pom\:33 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

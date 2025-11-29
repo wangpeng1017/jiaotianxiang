@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:14:32 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175268574
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175272216
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.bouncycastle\:bcprov-jdk15on\:jar\:1.64 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 08 17:39:50 CST 2025
+annotations-26.0.2-1.jar>nexus-cosmoplat=
+annotations-26.0.2-1.pom>aliyun-nexus=
+annotations-26.0.2-1.jar>aliyun-nexus=

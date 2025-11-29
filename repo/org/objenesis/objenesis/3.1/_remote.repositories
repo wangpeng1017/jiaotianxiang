@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 08 17:41:32 CST 2025
+objenesis-3.1.jar>nexus-cosmoplat=
+objenesis-3.1.pom>aliyun-nexus=

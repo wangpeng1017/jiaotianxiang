@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 08 17:41:13 CST 2025
+zookeeper-3.5.3-beta.jar>nexus-cosmoplat=
+zookeeper-3.5.3-beta.pom>aliyun-nexus=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 08 17:40:57 CST 2025
+postgresql-42.2.18.jar>nexus-cosmoplat=
+postgresql-42.2.18.pom>nexus-cosmoplat=

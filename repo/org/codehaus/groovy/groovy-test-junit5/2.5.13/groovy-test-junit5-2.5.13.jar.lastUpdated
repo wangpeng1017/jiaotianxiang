@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:14:14 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175252867
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175254032
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.codehaus.groovy\:groovy-test-junit5\:jar\:2.5.13 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

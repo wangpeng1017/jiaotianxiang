@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:11:03 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175063473
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175063709
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.springframework\:spring-webmvc\:pom\:unknown from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

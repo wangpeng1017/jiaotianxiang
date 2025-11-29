@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.cosmoplat.hyida</groupId>
+  <artifactId>hyida-sys-permit</artifactId>
+  <version>2023.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230327.061554</timestamp>
+      <buildNumber>7</buildNumber>
+    </snapshot>
+    <lastUpdated>20230327061554</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2023.3-20230327.061554-7</value>
+        <updated>20230327061554</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

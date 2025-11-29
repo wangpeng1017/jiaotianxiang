@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:16:47 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175399667
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175407791
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.eclipse.sisu\:org.eclipse.sisu.inject\:jar\:0.3.5 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

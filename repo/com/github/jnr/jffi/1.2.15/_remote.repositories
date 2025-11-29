@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:36:17 CST 2025
+jffi-1.2.15.pom>nexus-cosmoplat=
+jffi-1.2.15-native.jar>nexus-cosmoplat=
+jffi-1.2.15.jar>nexus-cosmoplat=

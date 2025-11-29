@@ -1,0 +1,56 @@
+# Large archive files
+*.zip
+IdeaProjects.zip
+repo.zip
+source_code.zip
+
+# Data directories
+data/
+logs/
+
+# Build artifacts
+target/
+build/
+dist/
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Node modules
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Credentials and secrets
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.yml
+secrets.yaml
+token.txt
+.token
+
+# Git credentials
+.git-credentials
+
+# Temp files
+*.log
+*.tmp
+*~

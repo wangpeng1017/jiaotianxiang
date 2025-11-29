@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:10:40 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175040837
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175040938
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.apache.logging.log4j\:log4j\:pom\:2.14.1 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

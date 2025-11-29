@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:16:57 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175415802
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175417567
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.5.6 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

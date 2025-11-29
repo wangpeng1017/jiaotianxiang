@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:15:59 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175359003
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175359546
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.webjars\:jquery\:pom\:3.6.1 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

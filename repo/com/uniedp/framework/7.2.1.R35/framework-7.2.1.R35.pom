@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>uniedp-platform</artifactId>
+        <groupId>com.uniedp</groupId>
+        <version>7.2.1.R35</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>framework</artifactId>
+    <packaging>pom</packaging>
+    <name>framework-平台核心框架</name>
+    <description>平台核心框架</description>
+
+    <modules>
+        <module>frk-core</module>
+        <module>frk-common</module>
+        <module>frk-jwt</module>
+        <module>frk-idempotent</module>
+    </modules>
+</project>

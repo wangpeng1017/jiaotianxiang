@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:12:23 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175142875
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175143364
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-logging\:pom\:2.3.4.RELEASE from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

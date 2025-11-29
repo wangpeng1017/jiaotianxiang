@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>modules</artifactId>
+        <groupId>com.uniedp</groupId>
+        <version>7.2.1.R35</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>modules-sys</artifactId>
+    <name>modules-sys-用户权限模块</name>
+    <description>用户权限模块</description>
+
+    <dependencies>
+        <!--redis 分布式事务锁-->
+        <dependency>
+            <groupId>cn.keking</groupId>
+            <artifactId>spring-boot-klock-starter</artifactId>
+        </dependency>
+        <!--模块依赖解耦-->
+        <dependency>
+            <groupId>com.uniedp</groupId>
+            <artifactId>frk-common</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.uniedp</groupId>
+            <artifactId>frk-jwt</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.uniedp</groupId>
+            <artifactId>modules-msg</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.uniedp</groupId>
+            <artifactId>modules-queue</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.uniedp</groupId>
+            <artifactId>modules-job-core</artifactId>
+        </dependency>
+        <!--验证码-->
+        <dependency>
+            <groupId>com.github.axet</groupId>
+            <artifactId>kaptcha</artifactId>
+        </dependency>
+
+        <!--oss begin -->
+        <dependency>
+            <groupId>com.qiniu</groupId>
+            <artifactId>qiniu-java-sdk</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.qcloud</groupId>
+            <artifactId>cos_api</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.slf4j</groupId>
+                    <artifactId>slf4j-log4j12</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>com.aliyun.oss</groupId>
+            <artifactId>aliyun-sdk-oss</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.huaweicloud</groupId>
+            <artifactId>esdk-obs-java</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.tobato</groupId>
+            <artifactId>fastdfs-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-mongodb</artifactId>
+        </dependency>
+        <!-- 获取系统信息 -->
+        <dependency>
+            <groupId>com.github.oshi</groupId>
+            <artifactId>oshi-core</artifactId>
+        </dependency>
+    </dependencies>
+</project>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:10:39 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175039190
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175039260
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.7.25 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

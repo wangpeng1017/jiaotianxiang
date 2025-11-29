@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:16:12 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175371590
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175372126
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact ru.yandex.qatools.ashot\:ashot\:pom\:1.5.4 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 08 17:41:35 CST 2025
+guava-31.0.1-jre.jar>nexus-cosmoplat=
+guava-31.0.1-jre.pom>nexus-cosmoplat=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:10:46 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175046174
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175046494
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.projectlombok\:lombok\:jar\:unknown from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com

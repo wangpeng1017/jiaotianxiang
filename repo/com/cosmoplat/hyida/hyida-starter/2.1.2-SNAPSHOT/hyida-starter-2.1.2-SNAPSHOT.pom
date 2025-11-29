@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>hyida</artifactId>
+        <groupId>com.cosmoplat.hyida</groupId>
+        <version>2.1.2-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>hyida-starter</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>hyida-starter-caffeine</module>
+        <module>hyida-starter-jwt</module>
+        <module>hyida-starter-redis</module>
+        <module>hyida-starter-swagger</module>
+        <module>hyida-starter-r2dbc</module>
+        <module>hyida-starter-obs</module>
+        <module>hyida-starter-log</module>
+        <module>hyida-starter-cuba</module>
+        <module>hyida-starter-uuc</module>
+        <module>hyida-starter-pay</module>
+        <module>hyida-starter-message</module>
+        <module>hyida-starter-job</module>
+        <module>hyida-starter-eventbus</module>
+        <module>hyida-starter-executor</module>
+        <module>hyida-starter-knife4j</module>
+        <module>hyida-starter-xss</module>
+        <module>hyida-starter-captcha</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>hyida-bom</artifactId>
+                <version>${project.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+</project>

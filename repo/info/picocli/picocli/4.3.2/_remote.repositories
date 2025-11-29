@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:35:14 CST 2025
+picocli-4.3.2.jar>nexus-cosmoplat=
+picocli-4.3.2.pom>nexus-cosmoplat=

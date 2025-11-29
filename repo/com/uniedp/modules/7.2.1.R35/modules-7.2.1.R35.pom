@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>uniedp-platform</artifactId>
+        <groupId>com.uniedp</groupId>
+        <version>7.2.1.R35</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>modules</artifactId>
+
+    <name>modules-业务逻辑模版</name>
+    <description>业务逻辑模版</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>modules-queue</module>
+        <module>modules-api</module>
+        <module>modules-msg</module>
+        <module>modules-ops</module>
+        <module>modules-generator</module>
+        <module>modules-sys</module>
+        <module>modules-job</module>
+        <!--<module>modules-bpm</module>-->
+        <!--<module>modules-udf</module>-->
+        <module>modules-oa</module>
+        <module>modules-ueditor</module>
+        <module>modules-kms</module>
+    </modules>
+</project>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 07 00:11:06 CST 2025
+@default-nexus-cosmoplat-http\://nexus.cosmoplat.com/repository/maven-public/.lastUpdated=1757175066137
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1757175066542
+http\://nexus.cosmoplat.com/repository/maven-public/.error=Could not transfer artifact org.apache.rocketmq\:rocketmq-all\:pom\:5.0.0 from/to nexus-cosmoplat (http\://nexus.cosmoplat.com/repository/maven-public/)\: nexus.cosmoplat.com
