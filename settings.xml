@@ -9,14 +9,14 @@
                 <repository>
                     <id>project-local-repo</id>
                     <name>Project Local Repository</name>
-                    <url>file://${env.GITHUB_WORKSPACE}/repo</url>
+                    <url>file://${local.repo.path}</url>
                 </repository>
             </repositories>
             <pluginRepositories>
                 <pluginRepository>
                     <id>project-local-plugin-repo</id>
                     <name>Project Local Plugin Repository</name>
-                    <url>file://${env.GITHUB_WORKSPACE}/repo</url>
+                    <url>file://${local.repo.path}</url>
                 </pluginRepository>
             </pluginRepositories>
         </profile>

@@ -45,7 +45,7 @@ jobs:
 
       - name: Build with Maven
         working-directory: ${{ matrix.path }}
-        run: mvn clean package -DskipTests -s $GITHUB_WORKSPACE/settings.xml
+        run: mvn clean package -DskipTests -s $GITHUB_WORKSPACE/settings.xml -Dlocal.repo.path=${{ github.workspace }}/repo
 
       - name: Log in to the Container registry
         uses: docker/login-action@v2
